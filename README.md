@@ -87,7 +87,7 @@ Administrators have full control over the platform and can:
 
 ### **Summary**
 
-**Auto Agenda Taller** is a complete solution for managing appointments in automotive workshops, providing a smooth experience for both clients and workshop staff. With a user-friendly interface and a robust backend, the platform optimizes the use of time and resources while ensuring that clients can easily book and manage their appointments. The use of modern technologies such as **React.js**, **Flask**, **PostgreSQL**, and integration with **Brevo** for notifications via email and SMS ensures that the application is fast, secure, and scalable for future improvements. The platform is deployed using **Render** and **Heroku**, offering flexibility and optimal availability.
+**Auto Agenda Workshop** is a complete solution for managing appointments in automotive workshops, providing a smooth experience for both clients and workshop staff. With a user-friendly interface and a robust backend, the platform optimizes the use of time and resources while ensuring that clients can easily book and manage their appointments. The use of modern technologies such as **React.js**, **Flask**, **PostgreSQL**, and integration with **Brevo** for notifications via email and SMS ensures that the application is fast, secure, and scalable for future improvements. The platform is deployed using **Render** and **Heroku**, offering flexibility and optimal availability.
 
 ## **Versión en Español**
 
