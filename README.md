@@ -12,7 +12,7 @@
 
 ### **General Overview**
 
-The main objective of **Auto Agenda Taller** is to simplify the way workshops handle appointments and services, providing clients with a user-friendly way to book appointments while enabling workshop staff to efficiently manage workflow. The application is structured into three main user roles: **Administrator**, **Mechanic**, and **Client**, each with its own dashboard and specific functionalities.
+The main objective of **Auto Agenda Workshop** is to simplify the way workshops handle appointments and services, providing clients with a user-friendly way to book appointments while enabling workshop staff to efficiently manage workflow. The application is structured into three main user roles: **Administrator**, **Mechanic**, and **Client**, each with its own dashboard and specific functionalities.
 
 ## **Technologies Used**
 
